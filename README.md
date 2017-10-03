@@ -1,6 +1,6 @@
 # ctp-project
-Team:  Excalibur </br>
-Project Name: Actively <br> 
+<strong>Team</strong>:  Excalibur </br>
+<strong>Project Name</strong>: Actively <br> 
 <strong>Members:</strong> Derling Batista Diaz, Samuel Witke, Seng Mun, Randy Cisneros </br>
 
 ## <strong>summary</strong>
