@@ -1,0 +1,22 @@
+{
+  "name": "ctp_project",
+  "version": "1.0.0",
+  "description": "CTP project dependencies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derling/ctp-project.git"
+  },
+  "author": "Derling Batista Diaz, Samuel Witke, Randy Cisneros, Seng Mun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derling/ctp-project/issues"
+  },
+  "homepage": "https://github.com/Derling/ctp-project#readme",
+  "dependencies":{
+    "express": "^4.15.4"
+  }  
+}
