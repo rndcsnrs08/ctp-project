@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Derling/ctp-project.git"
+    "url": "https://github.com/Derling/ctp-project.git"
   },
   "author": "Derling Batista Diaz, Samuel Witke, Randy Cisneros, Seng Mun",
   "license": "ISC",
